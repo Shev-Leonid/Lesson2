@@ -1,0 +1,12 @@
+.string{
+    width: 300px;
+    padding-left: 20px;
+    border-left: 4px solid red;
+}
+.grey{
+    width: 400px;
+    height: 200px;
+    background: grey;
+    margin-top: 100px;
+    box-shadow: tan -20px -20px 30px 10px;
+}
