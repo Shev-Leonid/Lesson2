@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: darkgray;
+    height: 430px;
+}
+.main {
+    margin: 210px;
+}
+.rad{
+    border: 6px solid;
+    border-radius: 25px;
+    margin: 15px auto;
+    text-align: center;
+    width: 250px;
+
+}
+.color1{
+    color: #ff6e1d;
+}
+.color2{
+    color:  #2cfff2;
+}
+.color3{
+   color:  #ff54a6;
+}
+.color4{
+   color:  #ff3e3e;
+}
